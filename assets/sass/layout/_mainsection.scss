@@ -1,0 +1,51 @@
+.presentacion {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.autora {
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+}
+
+
+.datos {
+    margin-left: 30px;
+}
+
+hr {
+    margin-top: 0;
+}
+
+.carta {
+    display: inline-block;
+}
+
+.datos_video {
+    max-width: 100%;
+}
+
+
+@media (min-width: 768px) { 
+
+    .autora {
+        border-radius: 100%;
+        width: 100px;
+        height: 100px;
+    }
+      
+        
+}
+
+
+@media (min-width: 992px) {
+
+   
+}
+
+
+
+
+

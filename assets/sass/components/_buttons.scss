@@ -1,0 +1,57 @@
+.botones {
+
+   display: none;
+}
+
+
+
+@media (min-width: 768px) { 
+    .botones {
+        display: inline-block;
+        
+        border-radius: 0%;
+    }
+    
+    .btn-info {
+        border-radius: 0%;
+        opacity: 70%;
+    
+    }
+    
+    .btn-danger {
+        margin-left: 10px;
+        border-radius: 0%;
+        opacity: 70%;
+    
+    } 
+   
+      
+        
+}
+
+
+@media (min-width: 992px) {
+
+    .botones {
+
+        
+        border-radius: 0%;
+    }
+    
+    .btn-info {
+        border-radius: 0%;
+        opacity: 70%;
+    
+    }
+    
+    .btn-danger {
+        margin-left: 10px;
+        border-radius: 0%;
+        opacity: 70%;
+    
+    } 
+}
+
+
+
+

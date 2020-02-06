@@ -1,0 +1,30 @@
+.fondo-navbar {
+    width: 100vw;
+    height: 100px;
+    background-color: #ffffff !important;
+
+}
+
+.logos {
+    position: relative;
+}
+
+.empresa1 {
+    font-family: $futura;
+    font-size: 50px;
+}
+
+.empresa2 {
+    font: $futura;
+    font-size: 20px;
+    position: absolute;
+    left: 160px;
+    top: 0;
+}
+
+.iconos {
+    justify-content: flex-end;
+
+
+
+}
