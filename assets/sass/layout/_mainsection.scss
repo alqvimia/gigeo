@@ -13,11 +13,8 @@
 
 .datos {
     margin-left: 30px;
-}
+    }
 
-hr {
-    margin-top: 0;
-}
 
 .carta {
     display: inline-block;
@@ -25,6 +22,10 @@ hr {
 
 .datos_video {
     max-width: 100%;
+}
+
+hr {
+    display: none;
 }
 
 
@@ -35,8 +36,12 @@ hr {
         width: 100px;
         height: 100px;
     }
-      
-        
+
+    hr {
+        margin-top: 0;
+        display: inline-flex;
+        width: 100vw;
+    }
 }
 
 
